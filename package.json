@@ -1,7 +1,7 @@
 {
   "name": "focus-time-desafio",
   "version": "1.0.0",
-  "description": "",
+  "description": "A ideia agora \u00e9 desenvolver a minha propria vers\u00e3o do \"Focus Timer\", esse \u00e9 um desafio proposto pelo time da rocketseat um projeto de timer que utiliza ES6 modules, estados, vari\u00e1v...",
   "main": "index.html",
   "scripts": {
     "start": "serve",
@@ -11,7 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/codesandbox-app/static-template.git"
   },
-  "keywords": [],
+  "keywords": [
+    "css",
+    "docker",
+    "html",
+    "javascript",
+    "markdown",
+    "node"
+  ],
   "author": "Ives van Hoorne",
   "license": "MIT",
   "bugs": {
