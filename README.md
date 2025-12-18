@@ -1,4 +1,6 @@
-# Focus Timer desafio
+**Tags**: #CSS #Docker #Html #JavaScript #Markdown #Node
+
+#FocusTimeChallenge #focus_time_desafio # Focus Timer desafio
 
 A ideia agora é desenvolver a minha propria versão do "Focus Timer", esse é um desafio proposto pelo time da rocketseat um projeto de timer que utiliza ES6 modules, estados, variáveis, callback functions e um modo escuro / claro.
 
